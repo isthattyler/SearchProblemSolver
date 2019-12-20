@@ -8,6 +8,8 @@ It uses BFS, DFS, and A* searching algorithm to solve problems.
 
 The algorithm is made as generic as possible to be used for many other different searching problems, not limited to these particular ones that I have.
 
+I'm looking forward to port this over to Java as well in the future. Please watch for update.
+
 ## Details
 
 ### ADTs
