@@ -1,0 +1,7 @@
+# python cache
+__pycache__/
+
+# Java codes (for now)
+*.java
+
+.DS_Store
